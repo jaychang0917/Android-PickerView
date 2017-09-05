@@ -770,7 +770,7 @@ public class WheelView extends View {
 
 
             this.lineSpacingMultiplier = lineSpacingMultiplier;
-            judgeLineSpae();
+            //judgeLineSpae();
 
         }
     }
